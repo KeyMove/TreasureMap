@@ -1,0 +1,8 @@
+## YAML Template.
+---
+name: TreasureMap
+main: com.github.KeyMove.TreasureMap
+version: 1.0.0
+
+commands:
+    map:
